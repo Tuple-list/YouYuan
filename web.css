@@ -85,9 +85,9 @@ html, body, div{
     outline: 1px solid #686de0;
     display: grid;
     grid-template-columns: repeat(4, 280px);
-    grid-template-rows: 390px 80px 390px 80px 390px 80px 390px 80px
-    390px 80px 390px 80px 390px 80px 390px 80px 390px 80px
-    390px 80px 80px;
+    grid-template-rows: 390px 100px 390px 100px 390px 100px 390px 100px
+    390px 100px 390px 100px 390px 100px 390px 100px 390px 100px
+    390px 100px 80px;
     grid-row-gap: 5px;
     grid-column-gap: 10px;
     align-items: end;
